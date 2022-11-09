@@ -4,8 +4,4 @@
 
 *八叉树对多随机物体的空间划分*
 
-<<<<<<< HEAD
 ![image](https://github.com/1242857339/Octree/blob/master/image-20221109104516723.png)
-=======
-!(https://github.com/1242857339/Octree/blob/master/image-20221109104516723.png)
->>>>>>> 700d5bd6235b30893550ab8c18411735256dd7c1
